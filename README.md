@@ -21,7 +21,14 @@ width ="100px">
 width ="100px">
 
 
-![Leonardo Borges GITHUB Stats](https://github-readme-stats.vercel.app/api?username=leoborges98&show_icons=true&theme=dark)
+<div>
+
+<a href="https://github.com/Leoborges98">
+
+<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api?username=leoborges98&show_icons=true&theme=dark">
+<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoborges98&layout=compact&theme=dark">
+
+
 
 ![Leonardo Borges GITHUB Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leoborges98&layout=compact&theme=dark)
 <!--
