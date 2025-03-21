@@ -1,12 +1,28 @@
-## Hi there 👋
+## Sejam Bem-vindos ao meu mundo GITHUB 👋
 
-</-- Cabeçalhos -->
-# Titulo 1
-## titulo 2
-### tirulo 3
-#### titulo 4
-##### titulo 5
-###### titulo 6
+💻 Olá, me chamo Leonardo Borges!
+
+📗 Sou estudante de Análise e desenvolvimento de sistemas, curso na faculdade UNICESUMAR!
+
+💸Atualmente trabalho como suporte de software na empresa COMPUSOFTWARE(CS)!
+
+💬 [Acesse meu Linkedin](https://www.linkedin.com/in/leonardo-borges-b7b5442b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+## MINHAS TECNOLOGIAS 
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+width ="100px">
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+width ="100px">
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+width ="100px">
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+width ="100px">
+
 
 <!--
 **Leoborges98/leoborges98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
