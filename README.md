@@ -30,7 +30,7 @@ width ="100px">
 
 
 
-![Leonardo Borges GITHUB Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leoborges98&layout=compact&theme=dark)
+
 <!--
 **Leoborges98/leoborges98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
